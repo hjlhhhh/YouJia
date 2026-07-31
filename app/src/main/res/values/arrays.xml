@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="units_array">
+        <item>个</item>
+        <item>斤</item>
+        <item>千克</item>
+        <item>克</item>
+        <item>毫升</item>
+        <item>立方厘米</item>
+        <item>立方米</item>
+        <item>盒</item>
+    </string-array>
+</resources>

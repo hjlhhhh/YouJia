@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">优价</string>
+    <string name="group_header_weight">重量类  (%d 件)</string>
+    <string name="group_header_volume">体积类  (%d 件)</string>
+    <string name="group_header_count">个数类  (%d 件)</string>
+    <string name="total_count">%d 件</string>
+    <string name="item_count_zero">0 件</string>
+    <string name="filter_all">全部</string>
+    <string name="filter_weight">重量</string>
+    <string name="filter_volume">体积</string>
+    <string name="filter_count">个数</string>
+    <string name="empty_state_title">还没有商品</string>
+    <string name="empty_state_sub">点击下方“+”添加</string>
+    <string name="clear_all">删除所有数据</string>
+    <string name="fab_add_content_desc">添加商品</string>
+    <string name="settings_content_desc">设置</string>
+    <!-- 设置界面 -->
+    <string name="settings_title">设置</string>
+    <string name="theme_preference">主题</string>
+    <string name="theme_light">亮色</string>
+    <string name="theme_dark">暗色</string>
+    <string name="theme_follow_system">跟随系统</string>
+    <string name="clear_data">清除全部数据</string>
+    <string name="clear_data_summary">删除所有商品数据，此操作不可恢复</string>
+    <string name="clear_data_confirm_title">确认清除</string>
+    <string name="clear_data_confirm_message">确定要删除所有商品数据吗？此操作不可撤销！</string>
+    <string name="theme_settings">主题设置</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="sort_settings">排序设置</string>
+    <string name="descending_sort">按单价降序排列</string>
+    <string name="search_title">搜索商品</string>
+    <string name="search_hint">输入商品名称</string>
+    <string name="search_empty_title">未找到匹配商品</string>
+    <string name="search_empty_sub">试试其他关键词</string>
+    <string name="search_content_desc">搜索</string>
+</resources>
